@@ -17,9 +17,4 @@
 # limitations under the License.
 #
 
-jenkins_plugin 'chucknorris' do
-  action :install
-  action :enable
-end
-
-
+jenkins_plugin 'chucknorris'
