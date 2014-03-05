@@ -18,6 +18,7 @@
 #
 
 jenkins_plugin 'chucknorris' do
+  action :install
   action :enable
 end
 
