@@ -18,3 +18,15 @@
 #
 
 jenkins_plugin 'chucknorris'
+
+jenkins_plugin 'analysis-core'
+
+jenkins_plugin 'analysis-collector'
+
+jenkins_plugin 'chucknorris'
+
+jenkins_plugin 'findbugs'
+
+jenkins_plugin 'regression-report-plugin'
+
+jenkins_plugin 'violations'
